@@ -4,7 +4,7 @@ description: Today I Learned
 
 # Home
 
-###  스터디 목록
+###  월 스터디 목록
 
 {% tabs %}
 {% tab title="2021.01" %}
