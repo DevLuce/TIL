@@ -10,7 +10,7 @@ description: Today I Learned
 {% tab title="2021.01" %}
 * Coursera Andrew Ng 기계 학습
 * 책 - 리액트를 다루는 기술
-* 책 - 파이썬 알고리즘 인터
+* 책 - 파이썬 알고리즘 인터뷰
 * Web Tech
 {% endtab %}
 
