@@ -16,7 +16,7 @@ description: Today I Learned
 
 {% tab title="02" %}
 * 우분투 리눅스 서버 + Nginx + Asp.net
-*  Flutter
+* Flutter
 * Deep Learning
 {% endtab %}
 
