@@ -21,7 +21,9 @@ description: Today I Learned
 {% endtab %}
 
 {% tab title="03" %}
-
+* darknet, Yolo, TF Lite
+* Google Cloud
+* Algorithm
 {% endtab %}
 
 {% tab title="04" %}
