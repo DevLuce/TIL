@@ -22,7 +22,7 @@ description: Today I Learned
 
 {% tab title="03" %}
 * darknet, Yolo, TF Lite
-* Google Cloud
+* Google Cloud Platform
 * Algorithm
 {% endtab %}
 
