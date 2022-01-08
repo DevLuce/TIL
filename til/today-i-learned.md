@@ -4,6 +4,10 @@ description: 오늘 배운 것을 간단하게 작성합니다.
 
 # Today I Learned
 
+### 2022.01.08
+
+* Network : CIDR - 클래스 없는 도메인간 라우팅 기
+
 ### 2022.01.06
 
 * python : black 패키지를 통한 Linting
