@@ -6,7 +6,7 @@ description: 오늘 배운 것을 간단하게 작성합니다.
 
 ### 2022.01.14
 
-* Flutter : 오랫동안 업데이트 안한 프로젝트 빌드 시 - ios, android 폴더 제거후 flutter create . 실행
+* Flutter : 오랫동안 업데이트 안한 프로젝트 빌드 시 - flutter pub upgrade && pod update
 
 ### 2022.01.08
 
