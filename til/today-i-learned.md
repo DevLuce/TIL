@@ -4,6 +4,10 @@ description: 오늘 배운 것을 간단하게 작성합니다.
 
 # Today I Learned
 
+### 2022.01.14
+
+* Flutter : 오랫동안 업데이트 안한 프로젝트 빌드 시 - ios, android 폴더 제거후 flutter create . 실행
+
 ### 2022.01.08
 
 * Network : CIDR - 클래스 없는 도메인간 라우팅 기법, NAT - 네트워크 주소 변환
