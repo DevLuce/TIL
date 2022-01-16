@@ -4,6 +4,10 @@ description: 오늘 배운 것을 간단하게 작성합니다.
 
 # Today I Learned
 
+### 2022.01.16
+
+* Blockchain : 블록체인 네트워크 구성 - Full Node, Lightweight Node, Miner Node
+
 ### 2022.01.14
 
 * Flutter : 오랫동안 업데이트 안한 프로젝트 빌드 시 - flutter pub upgrade & pod update
