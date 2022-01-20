@@ -4,6 +4,10 @@ description: 오늘 배운 것을 간단하게 작성합니다.
 
 # Today I Learned
 
+### 2022.01.20
+
+* Web : 티에리 코블렌츠의 가변 iframe 임베딩&#x20;
+
 ### 2022.01.16
 
 * Blockchain : 블록체인 네트워크 구성 - Full Node, Lightweight Node, Miner Node
