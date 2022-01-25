@@ -6,7 +6,7 @@ description: 오늘 배운 것을 간단하게 작성합니다.
 
 ### 2022.01.25
 
-* Cloud : AWS EC2 상에서 docker-compose를 통한 flask App, nginx, mysql, redis 배포 실습&#x20;
+* Cloud : AWS EC2 상에서 docker-compose를 통한 Flask App, Nginx, MySQL, Redis 배포 실습&#x20;
 
 ### 2022.01.20
 
