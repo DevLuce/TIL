@@ -6,7 +6,7 @@ description: 오늘 배운 것을 간단하게 작성합니다.
 
 ### 2022.02.07
 
-* Django : gettext를 통한 internationalization
+* Django : gettext를 사한 internationalization
 
 ### 2022.01.25
 
